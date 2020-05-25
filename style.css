@@ -1,0 +1,16 @@
+body{
+    font-family: Batang;
+    color: indianred;
+}
+p{
+    color: blue;
+    justify-items: center;
+}
+b{
+    font-family: Arial;
+    color: green;
+}
+.title{
+    color: #58b058;
+
+}
